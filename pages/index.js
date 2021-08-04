@@ -10,12 +10,12 @@ export default function Home({ exploreData, liveData }) {
   return (
     <div className="">
       <Head>
-        <title>Create Next App</title>
-        <link rel="icon" href="/favicon.ico" />
+        <title>AirBnB</title>
+        <link rel="icon" href="/Airbnb.ico" />
       </Head>
 
       <Header />
-      
+
       <Banner />
 
       <main className="max-w-7xl mx-auto px-8 sm:px-16">
