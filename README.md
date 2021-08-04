@@ -1,6 +1,6 @@
 # AirBnB Clone 
 
-This AirBnB Clone is written with ReactJS, Next.JS & using TailwindCSS.  This was strictly a learning project to begin work on adding Next.JS and Tailwind to my list of known languages and IS NOT A REAL SITE.  
+This AirBnB Clone is written with ReactJS, Next.JS & using TailwindCSS.  This was strictly a learning project to begin work on adding Next.JS and TailwindCSS to my list of known languages and IS NOT A REAL SITE.  
 
 [`TailwindCSS`](https://github.com/tailwindlabs/tailwindcss)
 
