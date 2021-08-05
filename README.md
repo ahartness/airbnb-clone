@@ -8,7 +8,7 @@ This AirBnB Clone is written with ReactJS, Next.JS & using TailwindCSS.  This wa
 
 ## Preview
 
-Preview of the AirBnB Clone is built and hosted on [`Vercel`](https://vercel.com/).  And a running build can be reached through [`this link here.`](https://airbnb-clone-g13bv3kt9-ahartness.vercel.app/)
+Preview of the AirBnB Clone is built and hosted on [`Vercel`](https://vercel.com/).  And a running build can be reached through [`this link here.`](https://airbnb-clone-five-eta.vercel.app/)
 
 
 
